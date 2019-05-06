@@ -11,7 +11,8 @@ Data
 - figure  
 Figures in RMD
 - code.R  
-Code of drawing pictures  
-Code of machine learning models
+Code of drawing pictures (ggplot2)  
+- Models.ipynb  
+Building up several models with python
 - *.rmd  
 Final presentation and other materials
