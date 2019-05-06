@@ -6,7 +6,7 @@ In this analysis, we mainly focus on the shootings. Generally speaking, we will 
 
 ## Structure
 
-- data 
+- data   
 Data 
 - figure  
 Figures in RMD
