@@ -9,10 +9,9 @@ In this analysis, we mainly focus on the shootings. Generally speaking, we will 
 - data   
 Data 
 - figure  
-Figures in RMD
-- code.R  
-Code of drawing pictures (ggplot2)  
-- Models.ipynb  
-Building up several models with python
-- *.rmd  
+Figures  
+- code  
+code.R: Code of drawing pictures (ggplot2)  
+Models.ipynb: machine learning models with python  
+- report  
 Final presentation and other materials
