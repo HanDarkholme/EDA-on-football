@@ -17,6 +17,12 @@ Models.ipynb: machine learning models with python
 Final presentation and other materials
 
 ## Environment
+### Python
 scikit-learn                       0.20.0  
 numpy                              1.15.4   
 torch                              0.4.0  
+
+### R
+GGally   1.4.0
+ggplot2   3.1.0
+aplpack   1.3.2
