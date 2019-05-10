@@ -15,3 +15,8 @@ code.R: Code of drawing pictures (ggplot2)
 Models.ipynb: machine learning models with python  
 - report  
 Final presentation and other materials
+
+## Environment
+scikit-learn                       0.20.0
+numpy                              1.15.4
+torch                              0.4.0
